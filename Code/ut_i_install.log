@@ -1,0 +1,736 @@
+-------------------------------------------------------------
+CREATING utPLSQL TABLES
+-------------------------------------------------------------
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL tables  ut_config
+Elapsed: 00:00:00.03
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.00
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.00
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.00
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.00
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL tables  ut_assertion
+Elapsed: 00:00:00.03
+Elapsed: 00:00:00.00
+Elapsed: 00:00:00.03
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL tables  ut_suite
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL tables  ut_utp
+Elapsed: 00:00:00.03
+Elapsed: 00:00:00.00
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.00
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.00
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL tables  ut_package
+Elapsed: 00:00:00.12
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.00
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL tables  ut_test
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.00
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL tables  ut_unittest
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL tables  ut_testcase
+Elapsed: 00:00:00.03
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL tables  ut_testprep
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL tables  ut_outcome
+Elapsed: 00:00:00.03
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.00
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL tables  ut_eq
+Elapsed: 00:00:00.03
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL tables  ut_suite_utp
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.03
+Elapsed: 00:00:00.00
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL tables  ut_argument
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.00
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL tables  utr_suite
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.00
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL tables  utr_utp
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.00
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL tables  utr_unittest
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.00
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL tables  utr_testcase
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.00
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL tables  utr_outcome
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.00
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL tables  utr_error
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.00
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL tables  ut_deterministic
+Elapsed: 00:00:00.04
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL tables  ut_deterministic_arg
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL tables  ut_receq
+Elapsed: 00:00:00.03
+Elapsed: 00:00:00.00
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL tables  ut_grid
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.03
+Elapsed: 00:00:00.00
+Elapsed: 00:00:00.00
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.00
+Elapsed: 00:00:00.00
+Elapsed: 00:00:00.00
+Elapsed: 00:00:00.01
+Elapsed: 00:00:00.00
+Elapsed: 00:00:00.01
+-------------------------------------------------------------
+CREATING utPLSQL SEQUENCES
+-------------------------------------------------------------
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL sequence  ut_suite_seq
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL sequence  ut_package_seq
+Elapsed: 00:00:00.00
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL sequence  ut_utp_seq
+Elapsed: 00:00:00.00
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL sequence  ut_test_seq
+Elapsed: 00:00:00.00
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL sequence  ut_unittest_seq
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL sequence  ut_testcase_seq
+Elapsed: 00:00:00.00
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL sequence  ut_plsql_runnum_seq
+Elapsed: 00:00:00.00
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL sequence  ut_assertion_seq
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL sequence  ut_receq_seq
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL sequence  ut_refcursor_results_seq
+Elapsed: 00:00:00.00
+-------------------------------------------------------------
+CREATING utPLSQL VIEWS
+-------------------------------------------------------------
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL view  utv_result_full
+Elapsed: 00:00:00.03
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL view  utv_last_run
+Elapsed: 00:00:00.01
+-------------------------------------------------------------
+CREATING utPLSQL PACKAGE HEADERS
+-------------------------------------------------------------
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_config
+Elapsed: 00:00:00.25
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_plsql
+Elapsed: 00:00:00.12
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package specification  ut_report
+Elapsed: 00:00:00.10
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package specification  ut_outputreporter
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_filereporter
+Elapsed: 00:00:00.04
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_htmlreporter
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_result
+Elapsed: 00:00:00.04
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package specification  ut_plsql_util
+Elapsed: 00:00:00.12
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package specification  ut_assert2
+Elapsed: 00:00:00.32
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_assert
+Elapsed: 00:00:00.15
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package specification  ut_plsql2
+Elapsed: 00:00:00.06
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_result2
+Elapsed: 00:00:00.06
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_utp
+Elapsed: 00:00:00.18
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package specification  ut_testprep
+Elapsed: 00:00:00.03
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_unittest
+Elapsed: 00:00:00.07
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_testcase
+Elapsed: 00:00:00.03
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package specification  ut_outcome
+Elapsed: 00:00:00.03
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package specification  ut_suiteutp
+Elapsed: 00:00:00.03
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_suite
+Elapsed: 00:00:00.04
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package specification  ut_package
+Elapsed: 00:00:00.04
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_test
+Elapsed: 00:00:00.04
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_gen
+Elapsed: 00:00:00.09
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package specification  ut_rsuite
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package specification  ut_rutp
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package specification  ut_runittest
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_rtestcase
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_routcome
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package specification  ut_rerror
+Elapsed: 00:00:00.04
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package specification  ut_receq
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package specification  ut_output
+Elapsed: 00:00:00.03
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_filereporter
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_htmlreporter
+Elapsed: 00:00:00.00
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package specification  ut_outputreporter
+Elapsed: 00:00:00.00
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_report
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_pipe
+Elapsed: 00:00:00.03
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_utoutput
+Elapsed: 00:00:00.03
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package specification  ut_utreport
+Elapsed: 00:00:00.01
+-------------------------------------------------------------
+CREATING utPLSQL PACKAGE BODIES
+-------------------------------------------------------------
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_config
+Elapsed: 00:00:00.14
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_plsql
+Elapsed: 00:00:00.32
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package body  ut_report
+Elapsed: 00:00:00.07
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_outputreporter
+Elapsed: 00:00:00.09
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_filereporter
+Elapsed: 00:00:00.06
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_htmlreporter
+Elapsed: 00:00:00.04
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_result
+Elapsed: 00:00:00.06
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_plsql_util
+Elapsed: 00:00:00.42
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_assert2
+Elapsed: 00:00:00.54
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_assert
+Elapsed: 00:00:00.07
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package body  ut_plsql2
+Elapsed: 00:00:00.10
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package body  ut_result2
+Elapsed: 00:00:00.10
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_utp
+Elapsed: 00:00:00.09
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package body  ut_testprep
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package body  ut_unittest
+Elapsed: 00:00:00.09
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_testcase
+Elapsed: 00:00:00.04
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_outcome
+Elapsed: 00:00:00.03
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package body  ut_suiteutp
+Elapsed: 00:00:00.03
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_suite
+Elapsed: 00:00:00.06
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package body  ut_package
+Elapsed: 00:00:00.06
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_test
+Elapsed: 00:00:00.04
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_gen
+Elapsed: 00:00:00.34
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_rsuite
+Elapsed: 00:00:00.03
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package body  ut_rutp
+Elapsed: 00:00:00.04
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_runittest
+Elapsed: 00:00:00.03
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package body  ut_rtestcase
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package body  ut_routcome
+Elapsed: 00:00:00.04
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_rerror
+Elapsed: 00:00:00.06
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package body  ut_receq
+Elapsed: 00:00:00.14
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_output
+Elapsed: 00:00:00.04
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_filereporter
+Elapsed: 00:00:00.00
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.01
+Creating utPLSQL package body  ut_htmlreporter
+Elapsed: 00:00:00.00
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_outputreporter
+Elapsed: 00:00:00.00
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_report
+Elapsed: 00:00:00.01
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_pipe
+Elapsed: 00:00:00.04
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_utoutput
+Elapsed: 00:00:00.07
+
+                                                                                                    
+                                                                                                    
+Elapsed: 00:00:00.00
+Creating utPLSQL package body  ut_utreport
+Elapsed: 00:00:00.06
